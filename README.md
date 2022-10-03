@@ -1,3 +1,8 @@
+# Небольшое вступление
+
+Версия NodeJS - 16.17.0
+Скачиваете проект, пишите npm start и проект запускается на 3000ом порту. На 3001 порту запускается json-server. Данные для авторизации хронятся в db.json. Для одновременного запуска приложения и сервера установлена библиотека concurrently. Соответствующие конфиги прописаны в package.json
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
