@@ -2,7 +2,7 @@ import { useCallback } from "react";
 import { useSelector, useDispatch } from "react-redux";
 
 import { useSearch } from "../../hooks/useSearch";
-import { deleteContacts, selectEditContact, editContact, toggleEdit } from "./contactsSlice";
+import { deleteContacts, selectEditContact, toggleEdit } from "./contactsSlice";
 import { Contact, ArrayContacts } from './contactsSlice';
 
 import ContactsListItem from "../contacts-list-item/ContactsListItem";

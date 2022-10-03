@@ -6,9 +6,6 @@ import { Contact, ArrayContacts, editContact, toggleEdit } from '../contacts-lis
 import './contactpanel.scss';
 
 
-interface EditCont {
-
-}
 
 const ContactPanel = () => {
 

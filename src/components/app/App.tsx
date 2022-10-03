@@ -1,4 +1,4 @@
-import {useEffect, useState} from 'react';
+import {useEffect} from 'react';
 import Auth from '../auth/Auth';
 import SearchPanel from '../search-panel/SearchPanel';
 import ContactsList from '../contacts-list/ContactsList';
